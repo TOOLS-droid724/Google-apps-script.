@@ -71,7 +71,7 @@ function sendBulkPromoEmail(emailsBCC, title, message, bannerUrl) {
     <h2>${title}</h2>
     <p style="font-size: 16px; color: #4b5563;">${message}</p>
     <div style="text-align: center; margin-top: 32px;">
-      <a href="https://example.com" class="btn">Shop the Collection</a>
+      <a href="https://www.aarambhntpl.com/" class="btn">Shop the Collection</a>
     </div>
   `;
   MailApp.sendEmail({ to: "no-reply@store.com", bcc: emailsBCC, subject: `Special Update: ${title}`, htmlBody: buildEmailHtml(content) });
