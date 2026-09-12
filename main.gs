@@ -8,7 +8,7 @@
 // ==========================================
 const MAIN_FOLDER_ID = "1jlHfRHBat1ZlO32uRkBYM2Cw03vhgv86"; 
 const RAZORPAY_LIVE_KEY = "rzp_live_SVstISgPrcivjP"; 
-const LOGO_URL = "https://i.ibb.co/G4xsrr6j/qafx-Ln-R-md.png"; 
+const LOGO_URL = "https://raw.githubusercontent.com/TOOLS-droid724/Logo/ae0efe81ab05d73bf85a3df1e9be516c3ca35f21/34826.png"; 
 const APP_TOKEN = "PT_SECURE_2026"; 
 
 // ==========================================
